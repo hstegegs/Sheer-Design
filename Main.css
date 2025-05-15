@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#7C7C7C;}
+#Wrapper {width: 900px; margin: 0px auto; background-color: white;}
+
+#SuperWrapper {width: 1000px; margin: 0px auto; background-color: white;}
+
+#Logo {float:left;}
+
+#Icon {float:right;}
+
+#navigasion {clear:both; word-spacing: 40px; border-top: solid black 1px; 
+border-bottom: solid black 1px; margin-bottom: 15px; padding: 15px; font-size:15px;font-family: Constantia;}
+
+#navigasion a:link {color:black;} 
+#navigasion a:visited {color:black;}
+#navigasion a:hover {color:aquamarine;}
+#navigasion a {text-decoration-line:none;}
+
+#Kotak1 {float:left; width: 700px;}
+#Kotak1 h1 {Color: #f90; border-bottom: solid black 0.5px; margin-bottom: 15px; padding: 10px;}
+#Kotak1 img {border: solid black 1px; padding: 10px; margin: 10px 10px;}
+
+#Kanan {float: right; width: 180px;}
+#Kanan h2 {font-size: 15px;}
+
+
+#Footer {clear:both; border-top: solid black 1px;padding-top: 10px 
+	0px; text-align:center;}

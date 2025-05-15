@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#7C7C7C;}
+#Wrapper {width: 900px; margin: 1px auto; background-color: white; padding: 0px;}
+
+#SuperWrapper {width: 1000px; margin: 0px auto; background-color: white; padding: 10px;}
+
+#Logo {float:left;}
+
+#Icon {float:right;}
+
+#navigasion {clear:both; word-spacing: 40px; border-top: solid black 1px; 
+border-bottom: solid black 1px; margin-bottom: 15px; padding: 15px; font-size:15px;font-family: Constantia;}
+
+#navigasion a:link {color:black;} 
+#navigasion a:visited {color:black;}
+#navigasion a:hover {color:aquamarine;}
+#navigasion a {text-decoration-line:none;}
+
+#wrapper1 {width: 250px; margin: 25px; background-color: lightgrey; border-top: solid red 10px; float:left; }
+#wrapper2 {width: 250px; margin: 25px; background-color: lightgrey; border-top: solid blue 10px; float:left;}
+#wrapper3 {width: 250px; margin: 25px; background-color: lightgrey; border-top: solid green 10px; float:left}
+
+
+#navigasion {clear:both; word-spacing: 40px; border-top: solid black 1px; 
+border-bottom: solid black 1px; margin-bottom: 15px; padding: 15px; font-size:15px;font-family: Constantia;}
+
+#navigasion a:link {color:black;} 
+#navigasion a:visited {color:black;}
+#navigasion a:hover {color:aquamarine;}
+#navigasion a {text-decoration-line:none;}
+
+#Kotak1 {float:left; width: 900px;}
+#Kotak1 h1 {Color: #f90; border-bottom: solid black 0.5px; margin-bottom: 15px; padding: 10px;}
+#Kotak1 img {border: solid black 1px; margin: 10px 10px;}
+
+#Kanan {float: right; width: 180px;}
+#Kanan h2 {font-size: 15px;}
+
+
+#Footer {clear:both; border-top: solid black 1px;padding-top: 10px 
+	0px; text-align:center;}
